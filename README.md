@@ -1,20 +1,20 @@
-💻 TEAM ID: PNT2022TMID00963
+💻                                                       **TEAM ID: PNT2022TMID00963**
 
-🤖 AI BASED DISCOURSE FOR BANKING INDUSTRY
+🤖 **AI BASED DISCOURSE FOR BANKING INDUSTRY**
 
-TECHNOLOGY : ARTIFICAL INTELLIGENCE
+**TECHNOLOGY : ARTIFICAL INTELLIGENCE**
 
-BATCH : B5-5M1E
+**BATCH : B5-5M1E**
 
-TEAM LEADER : CHAARU BHALA K 
+**TEAM LEADER : CHAARU BHALA K** 
 
-TEAM MEMBERS : BHAVADHARANI SP ,BHUMIKA M ,GOWSIKA S
+**TEAM MEMBERS : BHAVADHARANI SP ,BHUMIKA M ,GOWSIKA S**
  
-PROJECT LINK : https://cgb0963.000webhostapp.com/
+**PROJECT LINK** : https://cgb0963.000webhostapp.com/
 
-TASK::
+**TASK::**
 
-PROJECT DESIGN & PLANNING:
+**PROJECT DESIGN & PLANNING:**
 
      Ideation Phase
      
@@ -26,7 +26,7 @@ PROJECT DESIGN & PLANNING:
      
      Brainstorm
  
-PROJECT DESIGN PHASE 1:
+**PROJECT DESIGN PHASE 1:**
 
      Proposed Solution
      
@@ -34,7 +34,7 @@ PROJECT DESIGN PHASE 1:
      
      Solution Architecture
      
-PROJECT DESIGN PHASE 2:
+**PROJECT DESIGN PHASE 2:**
 
      Customer Journey Maps
      
@@ -44,13 +44,13 @@ PROJECT DESIGN PHASE 2:
      
      Technology Architecture
      
-PROJECT PLANNING PHASE:
+**PROJECT PLANNING PHASE:**
 
      Milestone & Activity List
      
      Sprint Delivery Plan
     
-PROJECT DEVELOPMENTS PHASE:
+**PROJECT DEVELOPMENTS PHASE:**
 
      Sprint 1
      
@@ -60,7 +60,7 @@ PROJECT DEVELOPMENTS PHASE:
      
      Sprint 4
     
-FINAL DELIVERABLES:
+**FINAL DELIVERABLES:**
 
      Source Code
      
@@ -68,7 +68,7 @@ FINAL DELIVERABLES:
      
      Project Demo Video
     
-ASSIGNMENTS:
+**ASSIGNMENTS:**
 
      Assignment 1
      
@@ -78,7 +78,7 @@ ASSIGNMENTS:
    
      Assignment 4
      
-***RESULT***     
+**RESULT**     
 
 ![image](https://user-images.githubusercontent.com/114250450/202857285-c78d2dfa-cd49-449f-810e-4570ad650050.png)
 
