@@ -64,7 +64,7 @@
 
 -  Source Code
       
-      - Python Code(App.py)
+      - Python Code(Chatbot App.py)
       
       - HTML code(Banking Chatbot.html)
      
