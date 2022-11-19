@@ -16,67 +16,67 @@
 
 **PROJECT DESIGN & PLANNING:**
 
-- [ ] Ideation Phase
+- Ideation Phase
      
-- [ ] Literature Survey
+-  Literature Survey
      
-- [ ] Problem Statement
+-  Problem Statement
     
-- [ ] Empathy Map
+-  Empathy Map
      
-- [ ] Brainstorm
+-  Brainstorm
  
 **PROJECT DESIGN PHASE 1:**
 
-- [ ] Proposed Solution
+-  Proposed Solution
      
-- [ ] Problem-Solution Fit
+-  Problem-Solution Fit
      
-- [ ] Solution Architecture
+-  Solution Architecture
      
 **PROJECT DESIGN PHASE 2:**
 
-- [ ] Customer Journey Maps
+-  Customer Journey Maps
      
-- [ ] Functional Requirements
+-  Functional Requirements
      
-- [ ] Data Flow Diagrams
+-  Data Flow Diagrams
      
-- [ ] Technology Architecture
+-  Technology Architecture
      
 **PROJECT PLANNING PHASE:**
 
-- [ ] Milestone & Activity List
+-  Milestone & Activity List
      
-- [ ] Sprint Delivery Plan
+-  Sprint Delivery Plan
     
 **PROJECT DEVELOPMENTS PHASE:**
 
-- [ ] Sprint 1
+-  Sprint 1
      
-- [ ] Sprint 2
+-  Sprint 2
      
-- [ ] Sprint 3
+-  Sprint 3
      
-- [ ] Sprint 4
+-  Sprint 4
     
 **FINAL DELIVERABLES:**
 
-- [ ] Source Code
+-  Source Code
      
-- [ ] Project Document
+-  Project Document
      
-- [ ] Project Demo Video
+-  Project Demo Video
     
 **ASSIGNMENTS:**
 
-- [ ] Assignment 1
+- Assignment 1
      
-- [ ] Assignment 2
+- Assignment 2
      
-- [ ] Assignment 3
+- Assignment 3
    
-- [ ] Assignment 4
+- Assignment 4
      
 **RESULT**     
 
