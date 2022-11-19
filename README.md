@@ -77,4 +77,11 @@ ASSIGNMENTS:
      Assignment 3
    
      Assignment 4
+     
+***RESULT***     
+
+![image](https://user-images.githubusercontent.com/114250450/202857285-c78d2dfa-cd49-449f-810e-4570ad650050.png)
+
+![image](https://user-images.githubusercontent.com/114250450/202857331-5911d5a8-8677-4ad3-adfb-7140e79bbb55.png)
+
 
